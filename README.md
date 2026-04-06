@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamaadhInsaf, and I am a young coder born in 2010!
+- 👋 Hi, I’m @HamaadhInsaf, and I am a young coder born in the 2000s!
 - 👀 I’m interested in coding and anything related to tech.
 - 🌱 I’m currently learning a lot, mainly related to tech.
 - 💞️ I’m currently not looking to collaborate with anyone.
